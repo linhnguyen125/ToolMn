@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\WF\\Core\\Core.csproj": {}
+    "D:\\Tool\\ToolMn\\Core\\Core.csproj": {}
   },
   "projects": {
-    "E:\\WF\\Core\\Core.csproj": {
+    "D:\\Tool\\ToolMn\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\WF\\Core\\Core.csproj",
+        "projectUniqueName": "D:\\Tool\\ToolMn\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "E:\\WF\\Core\\Core.csproj",
-        "packagesPath": "C:\\Users\\nvlinh\\.nuget\\packages\\",
-        "outputPath": "E:\\WF\\Core\\obj\\",
+        "projectPath": "D:\\Tool\\ToolMn\\Core\\Core.csproj",
+        "packagesPath": "C:\\Users\\linhn\\.nuget\\packages\\",
+        "outputPath": "D:\\Tool\\ToolMn\\Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\nvlinh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\linhn\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -34,7 +34,13 @@
           "warnAsError": [
             "NU1605"
           ]
-        }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0-windows7.0": {
@@ -68,7 +74,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

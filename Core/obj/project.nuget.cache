@@ -1,14 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "vlmffUlikt83w91aFfXciE5/EmvAM0DOqcoWD4MGsC/BUJYz/ArwRhn0PGbj5JRboHVgv/jk/zm5Ci/fLAfRBg==",
+  "dgSpecHash": "ZcEyTzhqxH8=",
   "success": true,
-  "projectFilePath": "E:\\WF\\Core\\Core.csproj",
+  "projectFilePath": "D:\\Tool\\ToolMn\\Core\\Core.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\nvlinh\\.nuget\\packages\\vanara.core\\4.0.4\\vanara.core.4.0.4.nupkg.sha512",
-    "C:\\Users\\nvlinh\\.nuget\\packages\\vanara.pinvoke.gdi32\\4.0.4\\vanara.pinvoke.gdi32.4.0.4.nupkg.sha512",
-    "C:\\Users\\nvlinh\\.nuget\\packages\\vanara.pinvoke.kernel32\\4.0.4\\vanara.pinvoke.kernel32.4.0.4.nupkg.sha512",
-    "C:\\Users\\nvlinh\\.nuget\\packages\\vanara.pinvoke.shared\\4.0.4\\vanara.pinvoke.shared.4.0.4.nupkg.sha512",
-    "C:\\Users\\nvlinh\\.nuget\\packages\\vanara.pinvoke.user32\\4.0.4\\vanara.pinvoke.user32.4.0.4.nupkg.sha512"
+    "C:\\Users\\linhn\\.nuget\\packages\\vanara.core\\4.0.4\\vanara.core.4.0.4.nupkg.sha512",
+    "C:\\Users\\linhn\\.nuget\\packages\\vanara.pinvoke.gdi32\\4.0.4\\vanara.pinvoke.gdi32.4.0.4.nupkg.sha512",
+    "C:\\Users\\linhn\\.nuget\\packages\\vanara.pinvoke.kernel32\\4.0.4\\vanara.pinvoke.kernel32.4.0.4.nupkg.sha512",
+    "C:\\Users\\linhn\\.nuget\\packages\\vanara.pinvoke.shared\\4.0.4\\vanara.pinvoke.shared.4.0.4.nupkg.sha512",
+    "C:\\Users\\linhn\\.nuget\\packages\\vanara.pinvoke.user32\\4.0.4\\vanara.pinvoke.user32.4.0.4.nupkg.sha512"
   ],
   "logs": []
 }
