@@ -29,32 +29,45 @@
         private void InitializeComponent()
         {
             Test = new Button();
+            button1 = new Button();
             SuspendLayout();
             // 
             // Test
             // 
-            Test.Location = new Point(341, 222);
+            Test.Location = new Point(12, 12);
             Test.Name = "Test";
             Test.Size = new Size(75, 23);
             Test.TabIndex = 0;
-            Test.Text = "Click me";
+            Test.Text = "Lunch";
             Test.UseVisualStyleBackColor = true;
-            Test.Click += this.Test_click;
+            Test.Click += Test_click;
+            // 
+            // button1
+            // 
+            button1.Location = new Point(93, 12);
+            button1.Name = "button1";
+            button1.Size = new Size(75, 23);
+            button1.TabIndex = 1;
+            button1.Text = "Resize";
+            button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
             // 
             // MainForm
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(300, 94);
+            Controls.Add(button1);
             Controls.Add(Test);
             Name = "MainForm";
             Text = "MainForm";
-            Click += this.Test_click;
+            Click += Test_click;
             ResumeLayout(false);
         }
 
         #endregion
 
         private Button Test;
+        private Button button1;
     }
 }

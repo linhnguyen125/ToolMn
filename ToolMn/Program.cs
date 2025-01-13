@@ -17,10 +17,8 @@ namespace ToolMn
 
             // Đăng ký các dịch vụ
             services.AddSingleton<IMouseHandler, MouseHandler>();
-            services.AddSingleton<ICoordinateManager, CoordinateManager>();
             services.AddSingleton<IGameLauncher, GameLauncher>();
             services.AddSingleton<IGameWindowManager, GameWindowManager>();
-            services.AddSingleton<IWindowArranger, WindowArranger>();
 
             // Đăng ký form
             services.AddTransient<MainForm>();

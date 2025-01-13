@@ -9,3 +9,5 @@ E:\WF\Core\obj\Debug\net8.0-windows\Core.dll
 E:\WF\Core\obj\Debug\net8.0-windows\refint\Core.dll
 E:\WF\Core\obj\Debug\net8.0-windows\Core.pdb
 E:\WF\Core\obj\Debug\net8.0-windows\ref\Core.dll
+E:\WF\Core\obj\Debug\net8.0-windows\Core.csproj.AssemblyReference.cache
+E:\WF\Core\obj\Debug\net8.0-windows\Core.sourcelink.json
